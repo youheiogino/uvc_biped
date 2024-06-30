@@ -1,0 +1,1 @@
+"C:\Program Files\CodeBlocks\MinGW\bin\g++.exe" biped.cpp core.cpp ../ode-0.16.1/build/codeblocks/obj/Debug/drawstuff/drawstuff/src/resources.res -I ../ode-0.16.1/include -L ../ode-0.16.1/lib/Debug -loded -ldrawstuffd -lopengl32 -lglu32 -lgdi32 -lwinmm
